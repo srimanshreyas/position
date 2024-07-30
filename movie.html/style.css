@@ -1,0 +1,27 @@
+#movieposter{
+    width: 1480px;
+    z-index: 28;
+    height: 1000px;
+    
+    
+}
+#prabhas{
+    position: relative;left: 500px;
+    bottom: 800px;
+    z-index: 30;
+}
+#salaar{
+    position: relative;
+    bottom: 1430px;
+    left: 110px;
+    z-index: 29;
+}
+#machine{
+    position: relative;left: 400px;
+    bottom: 1420px;
+    z-index: 31;
+    width: 800px;
+}
+#body{
+    background-color: brown;
+}
